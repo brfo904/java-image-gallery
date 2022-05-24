@@ -1,1 +1,1 @@
-# java-image-gallery
+# An EC2-based Java image gallery manager.
